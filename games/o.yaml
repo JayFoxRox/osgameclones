@@ -818,3 +818,13 @@
   images: ['http://outruncpc.free.fr/images/CPC01.jpg', 'http://outruncpc.free.fr/images/CPC02.jpg',
     'http://outruncpc.free.fr/images/CPC03.jpg']
   remakes: [Outrun]
+
+- name: OpenSWE1R
+  url: https://openswe1r.github.io/
+  repo: https://github.com/OpenSWE1R/openswe1r
+  development: active
+  status: semi-playable
+  lang: [C,C++]
+  license: [GPL2, GPL3]
+  images: ['https://camo.githubusercontent.com/67d83c209190f4f1d267fa4a4bd2639cd4b25666/687474703a2f2f6a616e6e696b766f67656c2e64652f736372617463687061642f7376672d736c69646573686f772f6f75742e7376673f626172']
+  remakes: ['Star Wars Episode 1: Racer']
