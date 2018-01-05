@@ -271,3 +271,11 @@
 - name: [SkyRoads, SkyRoads (video game)]
   meta:
     genre: [Platform]
+
+- name: 'Star Wars Episode 1: Racer'
+  platform: [Windows, OSX, Nintendo 64, Dreamcast]
+  meta:
+    genre: [Racing]
+    theme: [Sci-Fi]
+
+

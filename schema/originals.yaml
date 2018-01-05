@@ -44,6 +44,8 @@ schema;platform:
     'MS-DOS',
     'Windows',
     'OSX',
+    'Nintendo 64',
+    'Dreamcast'
   ]
 
 # -- ADD NEW GENRES TO 'SUBGENRE' SCHEMA --
